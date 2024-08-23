@@ -47,7 +47,7 @@ app.get("/", (c) => {
             </div>
           </div>
         </div>
-        <div className="w-80 bg-chat-settings p-6 shadow-xl flex flex-col justify-between">
+        {/* <div className="w-80 bg-chat-settings p-6 shadow-xl flex flex-col justify-between">
           <div>
             <div className="mb-4">
               <h2 className="text-xl font-semibold">Chat Settings</h2>
@@ -101,7 +101,7 @@ app.get("/", (c) => {
             </a>
           </div>
         </div>
-      </div>
+      </div> */}
       <script src="/static/script.js"></script>
     </>
   );
