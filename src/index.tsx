@@ -100,8 +100,8 @@ app.get("/", (c) => {
               />
             </a>
           </div>
-        </div>
-      </div> */}
+        </div>*/}
+      </div> 
       <script src="/static/script.js"></script>
     </>
   );
