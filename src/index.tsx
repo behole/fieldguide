@@ -18,7 +18,7 @@ app.get("/", (c) => {
       <div className="flex h-screen bg-gray-200">
         <div
           className="flex-grow flex flex-col"
-          style="max-width: calc(100%)"
+          style=""
         >
           <div
             id="chat-history"
