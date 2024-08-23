@@ -41,7 +41,7 @@ const models = {
 };
 
 const CHAT_MODEL_DEFAULT = "@cf/meta/llama-3.1-8b-instruct";
-const SYSTEM_MESSAGE_DEFAULT = "You are a helpful assistant.";
+const SYSTEM_MESSAGE_DEFAULT = "You are a helpful assistant?";
 
 const domReady = (callback) => {
   if (document.readyState === "loading") {
