@@ -41,7 +41,7 @@ const models = {
 };
 
 const CHAT_MODEL_DEFAULT = "@cf/meta/llama-3.1-8b-instruct";
-const SYSTEM_MESSAGE_DEFAULT = "this is not a test";
+const SYSTEM_MESSAGE_DEFAULT = "100";
 
 const domReady = (callback) => {
   if (document.readyState === "loading") {
