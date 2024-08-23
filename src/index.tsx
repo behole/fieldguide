@@ -15,7 +15,7 @@ app.use(renderer);
 app.get("/", (c) => {
   return c.render(
     <>
-      <div className="flex h-screen bg-gray-200">
+      <div className="flex h-screen bg-white">
         <div
           className="flex-grow flex flex-col"
           style=""
