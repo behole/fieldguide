@@ -99,8 +99,8 @@ app.get("/", (c) => {
                 className="h-6 inline"
               />
             </a>
-          </div> */}
-        </div>
+          </div> 
+        </div> */}
       </div> 
       <script src="/static/script.js"></script>
     </>
