@@ -29,7 +29,7 @@ app.get("/", (c) => {
               <textarea
                 id="message-input"
                 className="flex-grow m-2 p-2 border border-chat-border rounded shadow-sm placeholder-chat-placeholder"
-                placeholder="Type a message..."
+                placeholder="HI HI! You can do this... uphill both ways to school in the snow and all that ... Just tell me what you wanna figure out. From what channel NFL Redzone is on to how you can recover your <s>grindr</> Nextdoor password."
               ></textarea>
               <button
                 type="submit"
